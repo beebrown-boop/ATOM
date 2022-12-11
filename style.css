@@ -14,7 +14,7 @@ p {
 }
 
 .main-image {
-    background: url('images/HOMEPAGE_BEE_BROWN_NAMEPLATE.png') no-repeat;
+    background: url('HOMEPAGE_BEE_BROWN_NAMEPLATE.png') no-repeat;
     background-size: cover;
     background-position: 55% 45%;
     border-radius: 1px;
