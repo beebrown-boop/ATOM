@@ -1,0 +1,57 @@
+body {
+    color: #181d24;
+    font-family: Open-Sans, sans-serif;
+    font-weight: 300;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    line-height: 25px;
+    display: flex;
+    justify-content: center;
+    margin: 0px 30px;
+}
+
+.main-image {
+    background: url('images/HOMEPAGE_BEE_BROWN_NAMEPLATE.png') no-repeat;
+    background-size: cover;
+    background-position: 55% 45%;
+    border-radius: 1px;
+    height: 500px;
+    width: 100%;
+}
+
+.nav-banner {
+    background: rgb(0, 0, 0, 0.3);
+    height: 80px;
+    position: absolute;
+    width: 100%;
+}
+
+.nav-menu {
+    float: right;
+    line-height: 70px;
+    margin-right: 10px;
+    color: black;
+    font-size: 28px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.social-media {
+    border-top: 1px solid rgba(58, 58, 58, 0.2);
+    font-size: 200%;
+    margin: 0px 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+.social-media a {
+    color: #181d24;
+    padding: 20px;
+}
+
+.social-media a:hover {
+    color: rgb(236, 162, 25);
+}
